@@ -3,7 +3,7 @@
 #include<stdlib.h>
 #include <limits.h>
 
-//3 2 1 3 4 1 6 2 4 3 4 2 1 4 5 2 1 3 4
+// Input : 17 2 1 3 4 1 6 2 4 3 4 2 1 4 5 2 1 3 4
 typedef struct pages{
     int val;
     int nextAccess;
