@@ -1,4 +1,4 @@
-#! /usr/bin/bash -x
+#! /usr/bin/bash 
 source="$1"
 dest="$2"
 
